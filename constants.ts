@@ -58,7 +58,7 @@ export const RELEASES: Release[] = [
     title: "There's Always Time",
     type: 'Single',
     year: '2025',
-    coverUrl: '/a2662732270_10.webp',
+    coverUrl: '/Leniswek/a2662732270_10.webp',
     spotifyLink: '#',
     appleLink: '#'
   },
@@ -67,7 +67,7 @@ export const RELEASES: Release[] = [
     title: "There's Always Time",
     type: 'Single',
     year: '2025',
-    coverUrl: '/a2662732270_10.webp',
+    coverUrl: '/Leniswek/a2662732270_10.webp',
     spotifyLink: '#',
     appleLink: '#'
   },
@@ -76,7 +76,7 @@ export const RELEASES: Release[] = [
     title: "There's Always Time",
     type: 'Single',
     year: '2025',
-    coverUrl: '/a2662732270_10.webp',
+    coverUrl: '/Leniswek/a2662732270_10.webp',
     spotifyLink: '#',
     appleLink: '#'
   },
@@ -85,7 +85,7 @@ export const RELEASES: Release[] = [
     title: "There's Always Time",
     type: 'Single',
     year: '2025',
-    coverUrl: '/a2662732270_10.webp',
+    coverUrl: '/Leniswek/a2662732270_10.webp',
     spotifyLink: '#',
     appleLink: '#'
   }
